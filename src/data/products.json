@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Jacket",
+      "category": "winter",
+      "size": "L",
+      "brand": "HRX",
+      "price": 1500,
+      "idealFor": "Women",
+      "productImage": "images/women-jacket1.jpeg"
+    },
+    {
+      "id": 2,
+      "productName": "Kurti",
+      "category": "casual",
+      "size": "M",
+      "brand": "Biba",
+      "price": 1000,
+      "idealFor": "Women",
+      "productImage": "images/women-kurti1.jpeg"
+    },
+    {
+      "id": 3,
+      "productName": "Jeans",
+      "category": "Casual",
+      "size": "L",
+      "brand": "Levis",
+      "price": 1300,
+      "idealFor": "Men",
+      "productImage": "images/men-jeans.jpeg"
+    },
+    {
+      "id": 4,
+      "productName": "Shirt",
+      "category": "Formal",
+      "size": "S",
+      "brand": "arrow",
+      "price": 1100,
+      "idealFor": "Men",
+      "productImage": "images/men-shirt1.jpeg"
+    },
+    {
+      "id": 5,
+      "productName": "Tshirt",
+      "category": "Casual",
+      "size": "S",
+      "brand": "HRX",
+      "price": 800,
+      "idealFor": "Men",
+      "productImage": "images/men-tshirt1.jpeg"
+    },
+    {
+      "id": 6,
+      "productName": "SmartWatch",
+      "category": "Casual",
+      "size": "NA",
+      "brand": "bOAT",
+      "price": 2000,
+      "idealFor": "Unisex",
+      "productImage": "images/boat-smartwatch.jpeg"
+    }
+  ]
+}
